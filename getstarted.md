@@ -45,11 +45,11 @@ Note that this was the easy way to *create* your website, but it does come at a 
      }
      
      .gs-section-02 h4 {
-          color: navyblue;
+          color: #D2691E;
      }
      
      .gs-section-03 h5 {
-          color: goldenrod;
+          color: #8B008B;
      }
 
 </style>
