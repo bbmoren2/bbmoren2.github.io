@@ -1,12 +1,10 @@
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
-
 # --- Required options --- #
 
 # Name of website
 title: AHHHHHHHHHH I MADE A WEBSITE???
+
+# Short description of your site
+description: I am learning so much in this class, holy crap.
 
 # Your name to show in the footer
 author: Brittany Brooke Moreno
@@ -43,39 +41,28 @@ social-network-links:
   email: "bbmoren2@asu.edu"
   facebook: brittanybrookemoreno
   github: bbmoren2
-  twitter: ""
-  patreon: ""
-  youtube: ""
-#  medium: ""
-#  reddit: ""
-#  linkedin: ""
-#  xing: ""
-#  stackoverflow: ""
-#  snapchat: ""
-#  instagram: brittanybrookemoreno
-#  spotify: ""
-#  telephone: ""
-#  steam: ""
-#  twitch: ""
-#  yelp: ""
-#  telegram: ""
-#  calendly: ""
-#  mastodon: ""
-#  ORCID: ""
-#  google-scholar: ""
-
-# If you want to show a link to an RSS in the footer, add the site description here.
-# If you don't want to show an RSS link, remove the following line.
-rss-description: I am learning so much in this class, holy crap.
+# twitter:
+# patreon:
+# youtube:
+#  medium:
+#  reddit:
+#  linkedin:
+#  xing:
+#  stackoverflow:
+#  snapchat:
+  instagram: brittanybrookemoreno
+#  spotify:
+#  telephone:
+#  steam:
+#  twitch:
+#  yelp:
+#  telegram:
+#  calendly:
+#  mastodon:
+#  ORCID:
+#  google-scholar:
 
 # --- General options --- #
-
-# Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: false
-  linkedin: true
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
