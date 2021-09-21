@@ -44,12 +44,12 @@ Note that this was the easy way to *create* your website, but it does come at a 
           color: red;
      }
      
-     .gs-section-02 h4 {
-          color: #D2691E;
+     .gs-section-02 h3 {
+          color: red;
      }
      
-     .gs-section-03 h5 {
-          color: #8B008B;
+     .gs-section-03 h3 {
+          color: red;
      }
 
 </style>
