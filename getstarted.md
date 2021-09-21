@@ -41,15 +41,15 @@ Note that this was the easy way to *create* your website, but it does come at a 
 <style>
 
      .gs-section-01 h3 {
-          color: red
+          color: red;
      }
      
      .gs-section-02 h4 {
-          color: navyblue
+          color: navyblue;
      }
      
      .gs-section-03 h5 {
-          color: goldenrod
+          color: goldenrod;
      }
 
 </style>
