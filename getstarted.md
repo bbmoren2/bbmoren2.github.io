@@ -64,15 +64,15 @@ Note that this was the easy way to *create* your website, but it does come at a 
           color: red;
      }
      
-     .gs-section-02 h4 {
+     .gs-section-02 h3 {
           color: darkgreen;
      }
      
-     .gs-section-03 h5 {
+     .gs-section-03 h3 {
           color: darkorange;
      }
 
-     .gs-section-04 h6 {
+     .gs-section-04 h3 {
           color: darkmagents;
      }
 
