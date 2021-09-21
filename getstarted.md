@@ -44,7 +44,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
      color: red }
 
 .gs-section-01 p {
-     font-size: 30px;
+     font-size: 30px
 }
 
 </style>
