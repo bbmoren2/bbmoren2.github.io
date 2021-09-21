@@ -45,20 +45,6 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 .gs-section-01 p {
      font-size: 30px;
-};
-
-.gs-section-02 h4 { 
-     color: purple }
-
-.gs-section-02 p {
-     font-size: 40px;
-};
-
-.gs-section-03 h5 { 
-     color: purple }
-
-.gs-section-03 p {
-     font-size: 20px;
 }
 
 </style>
