@@ -42,6 +42,8 @@ Note that this was the easy way to *create* your website, but it does come at a 
   
   .gs-section-01 h3 {
     color: red }
+  .gs-section-01 p {
+    font-size: 3- px;}
   .gs-section-02 h3 {
     color: blue}
   .gs-section-03 h3 {
