@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: AHHHHHHHHHH I MADE A WEBSITE???
 
 # Your name to show in the footer
-author: Some Person
+author: Brittany Brooke Moreno
 
 # --- List of links in the navigation bar --- #
 
@@ -39,40 +39,40 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  email: "bbmoren2@asu.edu"
+  facebook: brittanybrookemoreno
+  github: bbmoren2
+  twitter: ""
+  patreon: ""
+  youtube: ""
+#  medium: ""
+#  reddit: ""
+#  linkedin: ""
+#  xing: ""
+#  stackoverflow: ""
+#  snapchat: ""
+#  instagram: brittanybrookemoreno
+#  spotify: ""
+#  telephone: ""
+#  steam: ""
+#  twitch: ""
+#  yelp: ""
+#  telegram: ""
+#  calendly: ""
+#  mastodon: ""
+#  ORCID: ""
+#  google-scholar: ""
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: I am learning so much in this class, holy crap.
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
@@ -99,15 +99,15 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+navbar-col: "#B22222"
+navbar-text-col: "#000000"
+navbar-border-col: "#B22222"
+page-col: "F8F8FF"
+text-col: "#000000"
+link-col: "#1E90FF"
+hover-col: "#DAA520"
+footer-col: "#00008B"
+footer-text-col: "#000000"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
